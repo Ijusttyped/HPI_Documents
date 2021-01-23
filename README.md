@@ -1,3 +1,3 @@
-# HPI Python Workshop
+# HPI Documents
 
-Collection of resources for the introduction into programming with python workshop at HPI.
+Collection of resources used during the masters program at HPI.
